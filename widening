@@ -1,0 +1,7 @@
+byte-short,int,long,float,double;
+short-int,long,float,double;
+char-int,long,float,double;
+int-long,float,double;
+long-float,double;
+large-small
+double-float,long,int,short,byte,char;
