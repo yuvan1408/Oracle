@@ -9,7 +9,7 @@ class Finalvariable{
 }
 public class Main{
     public static void main(String[] args){
-        Finalvariable obj = new Finalvariable(6248);
+        Finalvariable obj = new Finalvariable(1111);
         obj.displayValue();
     }
 }
