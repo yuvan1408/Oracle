@@ -1,0 +1,84 @@
+postfix - exp++, exp--
+unary - ++exp,--exp,+,-,~,!
+multiplicate - *,/,%
+Additive - +,-
+relational - <,<=,>,>=
+equality - ==,!=
+logical AND - &&
+Logical OR - `
+conditional (ternary)- ?:
+Assignment - =,+=,-=,*=,/=,%=
+comma - ,
+
+
+
+Key points - 
+*operator precedence 
+*Associative
+*Paranthesis
+-> Use parenthesis to make complex expression  more readable and to avoid unintended results due to operator precedence. 
+
+
+
+
+if(condition){
+    //expression
+}
+if-else
+ if(condition){
+
+ }else{
+    
+ }
+ 
+
+
+
+ switch(expression){
+    case value1:
+    break;
+    case value 2:
+    break;
+    default;
+ }
+
+
+
+
+
+
+
+
+ while loop:-
+ while(condition){
+    // execution
+ }
+
+
+
+
+
+
+do-while
+do{
+
+}while()
+
+
+
+for loop :-
+for(intitializtion;condition;iteration){
+   //code
+}
+
+
+ variable
+ class variable - declar
+
+
+ method declaration:-
+   
+
+   accessModifier returntype menthodName(parameterlist){
+      //body
+   }

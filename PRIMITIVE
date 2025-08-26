@@ -1,0 +1,8 @@
+Byte-1byte(8 bit)-0-small integer(-128 to 127)
+short-2bytes(16 bits)-0-medium range integer(-32,768 to 32,767)
+int -4 bytes - 0 -default for integer(-2^31 to 2^31 -1 )
+long - 8 bytes - 0L - large integer(-2^63 to 2^63 -1)
+float - 4 bytes - 
+ascll 
+cap ___ 65 to 90
+small __97-122
